@@ -1,1 +1,1 @@
-#Author: Gregory Kalaydjian
+Author: Gregory Kalaydjian
